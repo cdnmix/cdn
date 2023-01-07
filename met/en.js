@@ -1514,7 +1514,7 @@ function insta(){
 }
 
 function compa(){
-    window.location.href = "https://share.tv/https://metflix.zya.me";
+    window.location.href = "https://share.tv/https://metflix.wapka.top";
 }
 window.console = window.console || function(t) {};
   if (document.location.search.match(/type=embed/gi)) {
