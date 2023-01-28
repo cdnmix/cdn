@@ -1002,9 +1002,7 @@ $(e).each(function (ia, ba) {
 }
 
 function play(e){
-    window.location.href = e;
-    
-    
+    window.location.href = e.substring(0, e.lastIndexOf("/") + 1);
     var hours = 1; 
     var now = new Date().getTime();
     var setupTimes = localStorage.getItem('setupTimess');
