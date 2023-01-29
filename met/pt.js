@@ -174,7 +174,7 @@ $(".close").click(function(e){
 });
 $('.apt')[0].focus();
 });
-
+$(".apt").wrap('<form target="_blank" style="position:absolute"></form>');
 $(".apt").on("input", function() {
    $(".apt").attr("value", $(this).val());
    $(".input2").fadeOut(100);
