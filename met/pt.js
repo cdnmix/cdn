@@ -1540,7 +1540,7 @@ function getdown(e){
 }
 
 function insta(){
-    window.location.href = "https://compa.tv/https://instagram.com/metflix_app";
+    window.location.href = "https://compa.tv/https://instagram.com/junior_mmdsj";
 }
 
 function compa(){
