@@ -174,6 +174,10 @@ $(".close").click(function(e){
 });
 $('.apt')[0].focus();
 });
+$('.subcat').each(function(x){
+    var new_text = $(this).text().replace("Siga nosso instagram", "Siga o desenvolvedor"); 
+    $(this).text(new_text);
+  });
 $(".apt").wrap('<form target="_blank" style="position:absolute"></form>');
 $(".apt").on("input", function() {
    $(".apt").attr("value", $(this).val());
