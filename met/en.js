@@ -1510,7 +1510,7 @@ if (e != null && e.startsWith("https://abaixar") || e.startsWith("https://atrans
 }
 
 function insta(){
-    window.location.href = "https://compa.tv/https://instagram.com/metflix_app";
+    window.location.href = "https://compa.tv/https://instagram.com/junior_mmdsj";
 }
 
 function compa(){
