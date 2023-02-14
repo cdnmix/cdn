@@ -1544,7 +1544,7 @@ function getdown(e){
 }
 
 function insta(){
-    window.location.href = "https://compa.tv/https://instagram.com/junior_mmdsj";
+    window.location.href = "https://compa.tv/https://instagram.com/";
 }
 
 function compa(){
